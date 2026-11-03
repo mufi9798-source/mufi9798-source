@@ -1,16 +1,53 @@
-## Hi there 👋
+ Hi there, I'm a BCA Student! 👋
+ Aspiring Software Developer
 
-<!--
-**mufi9798-source/mufi9798-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year BCA student passionate about software development, programming, and building practical applications.
 
-Here are some ideas to get you started:
+ 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing Bachelor of Computer Applications (BCA)
+- 💻 Interested in Java and Web Development
+- 🌱 Exploring Artificial Intelligence and Machine Learning
+- 🚀 Building practical software projects
+- 🎯 Looking for Software Development Internship opportunities
+
+ 🛠️ Technical Skills
+
+**Programming Languages**
+- Java
+- JavaScript
+- SQL
+
+**Web Technologies**
+- HTML
+- CSS
+
+**Database**
+- Oracle SQL
+
+**Tools**
+- Visual Studio Code
+- Apache Tomcat
+- Maven
+- Git & GitHub
+
+ 📌 Featured Projects
+
+ Personal Expense Tracker
+A web-based application designed to manage and track personal expenses.
+
+**Technologies:** Java, HTML, CSS, JavaScript, SQL, Maven and Apache Tomcat.
+
+ 📚 Currently Learning
+
+- Advanced Java
+- Database Management
+- AI and Machine Learning
+- Software Development
+
+ 🤝 Connect With Me
+
+- LinkedIn:www.linkedin.com/in/mufi0607
+
+---
+⭐ Thanks for visiting my profile!
